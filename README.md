@@ -42,11 +42,10 @@ contract first{
     }
     function withdrawbal(int amt) public {
         bal = bal - amt;
-    }
-}
+    }}
 
 
 
-Youtube Video Link -
- # 1- Getting started with solidity- https://youtu.be/Zxfce11WND8
- # 2- Connecting ganache & Metamask - https://youtu.be/dDCYvchO3LU
+# Youtube Video Link -
+ 1- Getting started with solidity- https://youtu.be/Zxfce11WND8
+ 2- Connecting ganache & Metamask - https://youtu.be/dDCYvchO3LU
